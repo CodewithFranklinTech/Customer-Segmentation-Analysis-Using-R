@@ -42,7 +42,7 @@ customer_summary <- shop_sphere %>%
   arrange(desc(total_revenue))
 customer_summary
 
-# Create a new column: customer_segment. Use rules like: High Value → top 25% revenue customers. Medium Value → middle 50%. Low Value → bottom 25%. (Hint: think about quantile())
+# Create a new column: customer_segment. Use rules like: High Value → top 25% revenue customers. Medium Value → middle 50%. Low Value → bottom 25%.
 customer_summary <- customer_summary %>%
   mutate(
     customer_segment = case_when(
