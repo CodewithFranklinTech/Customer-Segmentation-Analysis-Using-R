@@ -67,6 +67,8 @@ The analysis was guided by the following key business questions:
  
 # Visualization
 Charts were created using ggplot2 to communicate findings visually: Bar Chart: Revenue by Customer Segment. Bar Chart: Number of Customers per Segment. Horizontal Bar Chart: Top 10 Customers by Revenue. 
+
+
 ![Revenue by Customer Segment](Revenue_by_Customer_Segment.png)
 
 This chart shows which customers bring in the most money. Most of the company’s revenue comes from High Value customers. The other two groups don’t contribute much.
