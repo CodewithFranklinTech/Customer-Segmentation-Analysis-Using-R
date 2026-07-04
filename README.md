@@ -96,4 +96,4 @@ These strategies can improve customer lifetime value, strengthen retention, and 
 
 # Author
 Franklin Chisom
-Junior Data Analyst | Aspiring Data Scientist | R Programming Enthusiast
+Data Analyst | SQL, Python, Power BI, & R Programming Enthusiast
